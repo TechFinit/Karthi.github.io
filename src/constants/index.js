@@ -52,7 +52,7 @@ export const PROJECTS = [
     image: project4,
     description:
       "A platform that provides real-time data on the prices of various cryptocurrencies. It fetches live information from cryptocurrency exchanges and APIs to display up-to-date prices, market capitalization, trading volume, and price changes ",
-    technologies: ["HTML", "CSS", "React.js", "Express", "MySQL"],
+    technologies: ["HTML", "CSS", "React.js"],
   },
 ];
 
