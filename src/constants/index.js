@@ -20,7 +20,7 @@ export const EXPERIENCES = [
     role: "Associate Software Developer",
     company: "Techfinite Solutions",
     description: `Enthusiastic Associate Software Developer with a strong foundation in software development principles and hands-on experience in designing, developing, and maintaining applications. familiar in programming languages such as Java, JavaScript, and working with frameworks like Node.js and React Native`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    technologies: ["HTML", "CSS", "React.js","React Native", "mySQL"],
   },
   
 ];
@@ -52,7 +52,7 @@ export const PROJECTS = [
     image: project4,
     description:
       "A platform that provides real-time data on the prices of various cryptocurrencies. It fetches live information from cryptocurrency exchanges and APIs to display up-to-date prices, market capitalization, trading volume, and price changes ",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "MySQL"],
+    technologies: ["HTML", "CSS", "React.js", "Express", "MySQL"],
   },
 ];
 
